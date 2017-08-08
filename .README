@@ -1,0 +1,1 @@
+Simple arduino project by using an ultrasonic sensor and buzzer. The ultrasonic values are communicated through WiFi on a Web endpoint.
